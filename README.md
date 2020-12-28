@@ -15,3 +15,5 @@ Or click Navigation to finally go to navigation,
 Check your reservations in the menu bar,
 You can have maximum of 3 reservations.
 
+In the folder AndroidScreenshot you can see the look of the application.
+
