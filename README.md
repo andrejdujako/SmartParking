@@ -5,8 +5,8 @@ User guide:
 
 Install app normally,
 Log in if you have a user name and password,
-If not click Register and procide to register,then click Sign In,
-Enter your credentials,
+If not click Sign Up and procide to register,then click Sign In,
+Enter your credentials and click Login,
 Choose the city you want to park into,
 Choose the parking,
 Choose time and date,
